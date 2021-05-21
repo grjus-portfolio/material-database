@@ -1,0 +1,23 @@
+{
+  "name": "material-database",
+  "version": "1.0.0",
+  "description": "Material database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grjus-portfolio/material-database.git"
+  },
+  "keywords": [
+    "material-database",
+    "sqllite"
+  ],
+  "author": "grjus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grjus-portfolio/material-database/issues"
+  },
+  "homepage": "https://github.com/grjus-portfolio/material-database#readme"
+}
